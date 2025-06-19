@@ -1,1 +1,3 @@
 .streamlit/secrets.toml
+# Ignore the secrets file for Streamlit
+# This file contains sensitive information and should not be tracked by Git.
