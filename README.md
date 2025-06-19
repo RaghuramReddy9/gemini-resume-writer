@@ -6,8 +6,7 @@ This app helps you generate a professional resume summary in seconds using the G
 
 ## 🚀 Live App
 
-[Click here to try the app](https://your-deployment-link.streamlit.app)  
-*(Replace this link with your actual Streamlit Cloud link)*
+[Click here to try the app](https://gemini-resume-writer-ram.streamlit.app)  
 
 ---
 
